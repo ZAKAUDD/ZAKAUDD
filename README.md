@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Muhammad Zaka-UD-Din
 - 👀 I’m interested in Remote Sensing and medical imaging (segmentation).
-- 🌱 I’m currently experimenting on basic deep learning models using medical data.
-- 💞️ I’m looking for a Professor/postdoctoral researcher with same research interest to work under his/her guidence.
 - 📫 How to reach me zaka10494@gmail.com.
 
 <!---
